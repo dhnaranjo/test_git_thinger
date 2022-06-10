@@ -2,6 +2,6 @@
 
 We have content here.
 
-1. Dog
+1. Dog, a really good one!
 2. Hat
 3. Dog in hat
